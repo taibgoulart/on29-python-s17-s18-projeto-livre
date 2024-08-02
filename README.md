@@ -13,7 +13,11 @@ O objetivo do nosso trabalho é compreender o impacto da Lei de Cotas no ingress
 ## MATERIAIS E MÉTODOS
 As bases de dados escolhidas foram dos anos 2012, o ano de implementação das cotas, 2017, passados 5 anos da criação da Lei, e 2022, último ano de informação disponível. Assim, esperamos ter um panorama abrangente dos desdobramentos das políticas públicas em questão.
 
-Nós usamos o Visual Studio Code para fazer o tratamento das nossas bases e o Tableau para desenvolver a visualização dos dados.
+Nós usamos o Jupyter Notebook no Visual Studio Code, a linguagem utilizada foi Python com as devidas bibliotecas para Análise e a Visualização das nossas bases foi feita com o Tableau.
+
+* **Nosso código**
+    
+ * [Arquivos](https://github.com/Fefanez/on29-python-s17-s18-projeto-livre/tree/main/exercicios/para-casa/projeto_final)
 
 ## ANÁLISE
 Partindo para a análise, observamos que o total de ingressantes por ano mostra um aumento de quase 30 mil estudantes de 2012 para 2017. Apesar de uma pequena redução no ano de 2022, de cerca de 6 mil ingressantes, quando categorizamos por raças, temos as seguintes informações:
