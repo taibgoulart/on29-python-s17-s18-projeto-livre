@@ -47,6 +47,7 @@ Obrigada!
 
 ### Gráficos 
  
- * [Gráficos](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
+ * [Gráficos- 01](https://public.tableau.com/views/ProjetoFinal-RePrograma/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ * [Gráficos- 02](https://public.tableau.com/views/ProjetoFinal-RePrograma/Painel2?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
