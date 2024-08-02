@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
-# “Perfil dos Estudantes das Universidades Federais Brasileiras - Um olhar sobre a Lei 12.711/2012”
+
+# Perfil dos Estudantes das Universidades Federais Brasileiras - Um olhar sobre a Lei 12.711/2012
 
 
 
