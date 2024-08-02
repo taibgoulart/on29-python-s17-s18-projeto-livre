@@ -1,7 +1,8 @@
 
 
-# Hello World!!
-Bem vindes ao repositório do nosso Projeto Final!!
+# HELLO WORLD!!
+
+Bem vindas ao repositório do nosso Projeto Final!!
 Somos Fernada e Tainá da turma On29 de Análise de Dados com Python.
 
 
@@ -41,7 +42,6 @@ Por fim, quando consideramos a taxa de permanência, ou seja, de estudantes coti
 ## CONCLUSÃO
 A análise dos dados revela que menos de 50% dos estudantes que ingressaram nas universidades federais por meio das políticas públicas de reserva de vagas conseguiram concluir seus cursos. Isso nos leva à conclusão de que não basta implementar políticas de incentivo ao ingresso desses estudantes nas universidades federais. É fundamental que essas políticas sejam complementadas por medidas que visem à permanência estudantil.
 
-Para garantir que esses alunos concluam seus cursos com sucesso, é neces
 Para garantir que esses alunos concluam seus cursos com sucesso, é necessário implementar políticas públicas de apoio contínuo, como bolsas de auxílio alimentação, auxílio aluguel, auxílio transporte, entre outras formas de assistência financeira e suporte. Essas iniciativas são essenciais para reduzir a evasão e promover a igualdade de oportunidades no ensino superior.
 Esperamos que essas informações demonstrem a importância de políticas públicas integradas, que não apenas facilitem o acesso ao ensino superior, mas também assegurem que os estudantes tenham as condições necessárias para completar sua formação acadêmica.
 
