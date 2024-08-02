@@ -32,8 +32,11 @@ Considerando os dados sobre ingressantes por Reserva de vagas, destacamos:
 Por fim, quando consideramos a taxa de permanência, ou seja, de estudantes cotistas que concluíram os cursos em relação aos que ingressaram, temos dados que variam de 7,18% no Acre até 42,21% no Amazonas. Essas informações chamam a atenção, visto que nem 50% dos estudantes que ingressaram por meio das políticas públicas de reserva de vaga conseguiram concluir os cursos, e nos levaram à conclusão de que não bastam políticas de incentivo ao ingresso desses estudantes nas Universidades Federais, mas são necessárias políticas públicas que visem à permanência estudantil, tais como bolsas de auxílio alimentação, auxílio aluguel, auxílio transporte, entre outros.
 
 ## CONCLUSÃO
-Com isso, concluímos nossa apresentação e desejamos que essas informações possam demonstrar como políticas públicas são fundamentais para que a sociedade se torne mais equitativa, principalmente quando falamos sobre Educação.
+A análise dos dados revela que menos de 50% dos estudantes que ingressaram nas universidades federais por meio das políticas públicas de reserva de vagas conseguiram concluir seus cursos. Isso nos leva à conclusão de que não basta implementar políticas de incentivo ao ingresso desses estudantes nas universidades federais. É fundamental que essas políticas sejam complementadas por medidas que visem à permanência estudantil.
 
+Para garantir que esses alunos concluam seus cursos com sucesso, é neces
+Para garantir que esses alunos concluam seus cursos com sucesso, é necessário implementar políticas públicas de apoio contínuo, como bolsas de auxílio alimentação, auxílio aluguel, auxílio transporte, entre outras formas de assistência financeira e suporte. Essas iniciativas são essenciais para reduzir a evasão e promover a igualdade de oportunidades no ensino superior.
+Esperamos que essas informações demonstrem a importância de políticas públicas integradas, que não apenas facilitem o acesso ao ensino superior, mas também assegurem que os estudantes tenham as condições necessárias para completar sua formação acadêmica.
 Obrigada!
 
   * **Escolha da Base de Dados**
