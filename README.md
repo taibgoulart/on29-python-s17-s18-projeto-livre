@@ -1,10 +1,9 @@
 <h1 align="center">
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
-# APRESENTAÇÃO INICIAL:
-Bom dia! Eu sou a Fernanda
+# “Perfil dos Estudantes das Universidades Federais Brasileiras - Um olhar sobre a Lei 12.711/2012”
 
-Bom dia! Eu sou a Tainá e o título do nosso trabalho é “Perfil dos Estudantes das Universidades Federais Brasileiras - Um olhar sobre a Lei 12.711/2012”
+
 
 ## INTRODUÇÃO
 Essa Lei, também conhecida como Lei de Cotas, foi sancionada em 2012 e estabelece a reserva de 50% das vagas de cada curso de Universidades e Institutos Federais para estudantes que fizeram todo o ensino médio na rede pública. Dessas vagas, uma porcentagem é destinada à pessoas pretas, pardas e indígenas, pessoas com deficiência e estudantes com renda familiar per capita igual ou inferior a 1,5 salário mínimo.
