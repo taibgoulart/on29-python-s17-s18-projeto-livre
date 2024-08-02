@@ -41,12 +41,12 @@ Obrigada!
  * [Bases de Dados](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
 
 
-### Material da aula 
+### Material da apresentação 
 
 * [Slides](https://www.canva.com/design/DAGMcmqHqJ4/5SjnDoKkZ_9E-CSuLPkhXw/edit?utm_content=DAGMcmqHqJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Gráficos 
  
- * [Gráficos](#https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
+ * [Gráficos](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
 
 
