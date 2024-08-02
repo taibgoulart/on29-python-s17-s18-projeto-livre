@@ -38,27 +38,15 @@ Obrigada!
 
   * **Escolha da Base de Dados**
     
-    [Algumas opções de Bases de Dados](#base-de-dados)
+    [Bases de Dados](#https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
 
 
 ### Material da aula 
 
-* [Slides](https://docs.google.com/presentation/d/1DZGufQqYXRpK9STvK_hIHLUxAz8zk9yy/edit#slide=id.p1)
+* [Slides](https://www.canva.com/design/DAGMcmqHqJ4/5SjnDoKkZ_9E-CSuLPkhXw/edit?utm_content=DAGMcmqHqJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-### Links Úteis
-- [Documentação Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
-- [Introdução ao Pandas](https://medium.com/tech-grupozap/introdu%C3%A7%C3%A3o-a-biblioteca-pandas-89fa8ed4fa38)
-- [Análise Exploratória de Dados I](https://escoladedados.org/tutoriais/analise-exploratoria-de-dados/)
-- [Análise Exploratória de Dados II](https://www.alura.com.br/artigos/analise-exploratoria)
-- [Storytelling com Dados](https://medium.com/resumos-resenhas/storytelling-com-dados-resumo-fd63ebe4f704)
-- [Markdown Cheastsheet](https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet)
-
-  #### Base de Dados
-- [Kaggle](https://www.kaggle.com/datasets)
-- [IBGE](https://ces.ibge.gov.br/base-de-dados/links-base-de-dados.html)
-- [Brasil.io](https://brasil.io/datasets/)
-- [Gov.br](https://dados.gov.br/dados/conjuntos-dados)
-- [Nosso Mundo em Dados](https://ourworldindata.org/charts)
-
+### Gráficos 
+ 
+ [Gráficos](#https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
 
 
