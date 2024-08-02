@@ -1,10 +1,12 @@
 
 
-# Perfil dos Estudantes das Universidades Federais Brasileiras - Um olhar sobre a Lei 12.711/2012
-
-## Olá
+# Hello World!!
 Bem vindes ao repositório do nosso Projeto Final!!
 Somos Fernada e Tainá da turma On29 de Análise de Dados com Python.
+
+
+
+# Perfil dos Estudantes das Universidades Federais Brasileiras - Um olhar sobre a Lei 12.711/2012
 
 ## INTRODUÇÃO
 Essa Lei, também conhecida como Lei de Cotas, foi sancionada em 2012 e estabelece a reserva de 50% das vagas de cada curso de Universidades e Institutos Federais para estudantes que fizeram todo o ensino médio na rede pública. Dessas vagas, uma porcentagem é destinada à pessoas pretas, pardas e indígenas, pessoas com deficiência e estudantes com renda familiar per capita igual ou inferior a 1,5 salário mínimo.
