@@ -1,82 +1,47 @@
 <h1 align="center">
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
+# APRESENTAÇÃO INICIAL:
+Bom dia! Eu sou a Fernanda
 
-# Tema da Aula
+Bom dia! Eu sou a Tainá e o título do nosso trabalho é “Perfil dos Estudantes das Universidades Federais Brasileiras - Um olhar sobre a Lei 12.711/2012”
 
-Turma Online 29 | Python | Semanas 17 e 18 | 2024 | Jessica Ferreira
+## INTRODUÇÃO
+Essa Lei, também conhecida como Lei de Cotas, foi sancionada em 2012 e estabelece a reserva de 50% das vagas de cada curso de Universidades e Institutos Federais para estudantes que fizeram todo o ensino médio na rede pública. Dessas vagas, uma porcentagem é destinada à pessoas pretas, pardas e indígenas, pessoas com deficiência e estudantes com renda familiar per capita igual ou inferior a 1,5 salário mínimo.
 
-### Instruções
-Antes de começar, vamos organizar nosso setup.
-* Fork esse repositório 
-* Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
-* Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
-* [Add outras instruções caso necessário]
+## OBJETIVO
+O objetivo do nosso trabalho é compreender o impacto da Lei de Cotas no ingresso e conclusão dos estudantes brasileiros em Universidades Federais, apresentando nossas análises com base nos dados obtidos no site do INEP, o Instituto Nacional de Estudos e Pesquisas.
 
-### Resumo
-O que veremos na aula de hoje?
-* [Slide Semana 17](https://docs.google.com/presentation/d/1DZGufQqYXRpK9STvK_hIHLUxAz8zk9yy/edit#slide=id.p1)
-* [Slide Semana 18]()
+## MATERIAIS E MÉTODOS
+As bases de dados escolhidas foram dos anos 2012, o ano de implementação das cotas, 2017, passados 5 anos da criação da Lei, e 2022, último ano de informação disponível. Assim, esperamos ter um panorama abrangente dos desdobramentos das políticas públicas em questão.
 
-* [Escolhendo uma fonte de dados](#Escolhendoumafontededados)
-* [Análise exploratória]()
-* [Criando uma história com dados]()
+Nós usamos o Visual Studio Code para fazer o tratamento das nossas bases e o Tableau para desenvolver a visualização dos dados.
 
-## Conteúdo
+## ANÁLISE
+Partindo para a análise, observamos que o total de ingressantes por ano mostra um aumento de quase 30 mil estudantes de 2012 para 2017. Apesar de uma pequena redução no ano de 2022, de cerca de 6 mil ingressantes, quando categorizamos por raças, temos as seguintes informações:
 
-### O que é um projeto de análise de dados?
-Nesse ponto vocês já aprenderam que ter dados não é a mesma coisa que ter informação.
-**Dados:** são elementos brutos e não processados, como números, palavras, ou símbolos que precisam ser interpretados para se tornarem úteis. 
-**Informação:** é o resultado do processamento, organização e interpretação dos dados, fornecendo significado e contexto para tomar decisões ou entender situações. 
-Assim, dados são a matéria-prima da informação, que é o produto final após análise e interpretação dos dados.
+- Em 2012, quase 56% dos estudantes se identificavam com a opção COR NÃO DEFINIDA. Em 2017, essa porcentagem caiu para 12,6%. Já em 2022, passou a ser apenas 9,3% da escolha dos ingressantes. A partir da implementação da Lei de Cotas, houve uma distribuição completamente diferente dentre as raças.
+- Considerando as raças priorizadas, temos um grande aumento na população indígena que, em 2012 representava 0,2% do total de ingressos e passou para 0,75% em 2022 - um aumento de quase 300%;
+- A população negra também aumentou: de 6% em 2012, passou para quase 11% em 2022 do total de ingressantes.
+- O aumento mais expressivo foi na população parda: de 14,4% em 2012, foi para 36,4% em 2022.
 
-Por isso a importância de nós contarmos uma história estruturada a partir dos dados que conseguimos coletar. E é exatamente sobre isso, que se trata um projeto de análise de dados: **gerar informação útil a partir da construção de uma perspectiva contextualizada!**
+Considerando os dados sobre ingressantes por Reserva de vagas, destacamos:
 
-Então aqui vão algumas perguntas gerais que devemos nos fazer ao iniciar um projeto como esse:
+- A taxa de estudantes oriundos do ensino médio na rede pública, que em 2012 era de 4,7%, em 2017 passou para 34,7% e, em 2022, para 31% do total de ingressantes.
+- Já os estudantes com renda familiar abaixo de 1,5 salário mínimo per capita, de 0,5% em 2012, saltaram para 16,5% em 2017 e chegaram em 2022 como 14% de todos os ingressantes.
+- Destacamos também que estudantes com deficiência passaram de 0,06% em 2012 para 0,37% em 2017, chegando a 2022 como 0,64% - um aumento de quase 1000%
 
-- **Conteúdo**
-  - O que eu quero informar?
-- **Público**
-  - Para quem eu estou contanto essa história? Com quem vou compartilhar essa informação?
-- **Transformação**
-  - Por que essa informação é relevante?
-    
-Ok, as perguntas são importantes, 
+Por fim, quando consideramos a taxa de permanência, ou seja, de estudantes cotistas que concluíram os cursos em relação aos que ingressaram, temos dados que variam de 7,18% no Acre até 42,21% no Amazonas. Essas informações chamam a atenção, visto que nem 50% dos estudantes que ingressaram por meio das políticas públicas de reserva de vaga conseguiram concluir os cursos, e nos levaram à conclusão de que não bastam políticas de incentivo ao ingresso desses estudantes nas Universidades Federais, mas são necessárias políticas públicas que visem à permanência estudantil, tais como bolsas de auxílio alimentação, auxílio aluguel, auxílio transporte, entre outros.
 
-MAS POR ONDE COMEÇAR?!
+## CONCLUSÃO
+Com isso, concluímos nossa apresentação e desejamos que essas informações possam demonstrar como políticas públicas são fundamentais para que a sociedade se torne mais equitativa, principalmente quando falamos sobre Educação.
 
-### Escolhendo uma fonte de dados
-
-#### O caminho comum
-Se você já fez algum tipo de pesquisa acadêmica (TCC, Iniciação Científica, etc) você certamente está familiarizado com esse processo, pois tudo começa com a escolha de um TEMA, seguindo para a definição do PROBLEMA, que em seguida é desdobrado em PERGUNTAS, que irão guiar a COLETA DE DADOS.
-
-1. Delimitação do Tema
-2. Definição do Problema
-3. Desenvolvimento de Perguntas
-4. Coleta de Dados
-
-#### O caminho que iremos seguir
-Porque esse projeto é um exercício e encontrar os dados ideais para responder às nossas perguntas pode se tornar um trabalho extremamente complexo...
-
-Nós iremos fazer um caminho um pouco diferente e a partir de um tema de interesse, escolher uma base e então pensar quais perguntas podem ser respondidas a partir dela.
-
-O QUE TAMBÉM É SUPER VÁLIDO! E PODE RENDER DESCOBERTAS INCRÍVEIS!
-
-  * **Escolha do tema**
-
-    No primeiro momento você deve escolher qual assunto gostaria de abordar. Pense em um tema atual, relevante e até onde você vai aprofundar a análise. Lembre-se, não adianta abraçar o mundo sozinho, você precisa focar e entregar o melhor resultado possível, então trabalhe na delimitação do Tema! Quais são os recortes possíveis dentro do universo escolhido?
-
-    #Dica: Dê prioridade para algo que você goste, se interesse, tenha afinidade ou conhecimento na área.
+Obrigada!
 
   * **Escolha da Base de Dados**
     
     [Algumas opções de Bases de Dados](#base-de-dados)
 
-* **Definindo nossas perguntas**
-  
-  O que eu quero tentar responder? VAMOS AO [BRAINSTORM](#material-da-aula)!
-
-***
 
 ### Material da aula 
 
