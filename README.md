@@ -15,8 +15,7 @@ As bases de dados escolhidas foram dos anos 2012, o ano de implementação das c
 
 Nós usamos o Jupyter Notebook no Visual Studio Code, a linguagem utilizada foi Python com as devidas bibliotecas para Análise e a Visualização das nossas bases foi feita com o Tableau.
 
-* **Nosso código**
-    
+ * [Bases de Dados](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)   
  * [Arquivos](https://github.com/Fefanez/on29-python-s17-s18-projeto-livre/tree/main/exercicios/para-casa/projeto_final)
 
 ## ANÁLISE
@@ -43,11 +42,6 @@ Para garantir que esses alunos concluam seus cursos com sucesso, é necessário 
 Esperamos que essas informações demonstrem a importância de políticas públicas integradas, que não apenas facilitem o acesso ao ensino superior, mas também assegurem que os estudantes tenham as condições necessárias para completar sua formação acadêmica.
 
 Obrigada!
-
-  * **Escolha da Base de Dados**
-    
- * [Bases de Dados](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
-
 
 ### Material da apresentação 
 
