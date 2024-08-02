@@ -38,7 +38,7 @@ Obrigada!
 
   * **Escolha da Base de Dados**
     
-    [Bases de Dados](#https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
+ * [Bases de Dados](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
 
 
 ### Material da aula 
@@ -47,6 +47,6 @@ Obrigada!
 
 ### Gráficos 
  
- [Gráficos](#https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
+ * [Gráficos](#https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
 
 
