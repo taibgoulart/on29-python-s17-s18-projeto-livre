@@ -37,6 +37,7 @@ A análise dos dados revela que menos de 50% dos estudantes que ingressaram nas 
 Para garantir que esses alunos concluam seus cursos com sucesso, é neces
 Para garantir que esses alunos concluam seus cursos com sucesso, é necessário implementar políticas públicas de apoio contínuo, como bolsas de auxílio alimentação, auxílio aluguel, auxílio transporte, entre outras formas de assistência financeira e suporte. Essas iniciativas são essenciais para reduzir a evasão e promover a igualdade de oportunidades no ensino superior.
 Esperamos que essas informações demonstrem a importância de políticas públicas integradas, que não apenas facilitem o acesso ao ensino superior, mas também assegurem que os estudantes tenham as condições necessárias para completar sua formação acadêmica.
+
 Obrigada!
 
   * **Escolha da Base de Dados**
