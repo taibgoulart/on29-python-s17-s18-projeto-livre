@@ -2,7 +2,7 @@
 
 # 🐍 Projeto Final | Bootcamp Reprograma - Análise de Dados
 
-[![Feito com amor pela Reprograma 💜](https://img.shields.io/badge/Feito%20com%20amor%20pela-Reprograma-800080?style=for-the-badge)](https://reprograma.com.br/)
+[![Reprograma](https://img.shields.io/badge/Feito%20com%20amor%20pela-Reprograma-800080?style=for-the-badge)](https://reprograma.com.br/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
