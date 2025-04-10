@@ -1,4 +1,4 @@
-![Capa do Projeto](https://i.imgur.com/ExemploCapa.png) <!-- Você pode criar sua imagem de capa no Canva e hospedar aqui ou no próprio repositório -->
+
 
 # 🐍 Projeto Final | Bootcamp Reprograma - Análise de Dados
 
