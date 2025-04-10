@@ -64,7 +64,7 @@ Investigar se a **Lei de Cotas (Lei nº 12.711/2012)** realmente favoreceu o ing
 
 ## 🧠 Aprendizados
 
-Este projeto foi uma experiência transformadora! Tivemos a oportunidade de aplicar na prática tudo o que aprendemos no bootcamp — desde o tratamento dos dados até a apresentação dos insights.
+Este projeto foi uma experiência transformadora! Tivemos a oportunidade de aplicar na prática tudo o que aprendemos no bootcamp — desde o tratamento dos dados até a apresentação dos insights.Foi um prazer imenso dividir essa experiência com a minha dupla/colega querida! 
 
 Mais do que números, conseguimos contar uma história real com os dados e trazer reflexões importantes sobre educação e equidade.  
 Foi um orgulho apresentar esse projeto na nossa formatura! 💛
